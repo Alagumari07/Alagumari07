@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently pursuing my bachelor degree in CSE.
 - 📫 How to reach me alagu2070@gmail.com
+-    pronoun he/him.
 
 
 <!---
